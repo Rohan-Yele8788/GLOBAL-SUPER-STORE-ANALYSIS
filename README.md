@@ -82,7 +82,7 @@ Phones is the highest-selling sub-category with $1.7M, followed by Copiers ($1.5
 The average Delivary Days  is 3  days, which seems reasonable, but there may be room for improvement to boost customer satisfaction, especially with rising competition offering faster shipping options.
 
 # Repository Structure
-* Data : <a href "https://github.com/Rohan-Yele8788/GLOBAL-SUPER-STORE-ANALYSIS/blob/main/Global_superstore_2016.xlsx"</a>
+* Data :  "https://github.com/Rohan-Yele8788/GLOBAL-SUPER-STORE-ANALYSIS/blob/main/Global_superstore_2016.xlsx"</a>
 * Dashboard : Power BI File (.pbix) of the project.
 * Images : Contains screenshorts of the dashboard for easy preview.
 
