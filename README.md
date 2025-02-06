@@ -15,3 +15,22 @@ The Super Store Sales dataset contains detailed transactional data related to sa
 4. Product Segments: Sales distribution across customer segments such as Consumer, Corporate, and Home Office, enabling targeted marketing strategies.
 5. Shipping Methods: Various shipping modes, including Standard Class, Second Class, First Class, and Same Day, with associated shipping durations and their impact on customer satisfaction.
 6. Product Categories and Sub-categories: Detailed breakdown of sales across categories such as Office Supplies, Technology, and Furniture, along with sub-categories like Phones, Chairs, and Binders.
+
+# Key Objectives :
+1. Sales Growth Analysis
+2. Profitability Improvement
+3. Return Minimization
+4. Segment and Category Performance
+5. Shipping Efficiency Optimization
+6. Regional Sales Insights
+7. High-Performing Sub-Categories
+
+# Tool Used :
+
+1. MS Excel:
+For data cleaning, null handlings and data analysis.
+
+2. MS Power BI:
+For Data visualization, for preparing interactive dashboard followed by Forecasting.
+
+
