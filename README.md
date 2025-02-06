@@ -28,10 +28,10 @@ The Super Store Sales dataset contains detailed transactional data related to sa
 # Tool Used :
 
 
-# 1. MS Excel:
+## 1. MS Excel:
 For data cleaning, null handlings and data analysis.
 
-# 2. MS Power BI:
+## 2. MS Power BI:
 For Data visualization, for preparing interactive dashboard followed by Forecasting.
 
 
