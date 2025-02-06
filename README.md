@@ -54,31 +54,31 @@ For Data visualization, for preparing interactive dashboard followed by Forecast
 
 
 
-# 1.  Overall Sales and Profit:
+## 1.  Overall Sales and Profit:
 The store generated $12.64M in total sales but with a relatively low profit of $1.47M. This suggests potential areas for cost optimization or better profit-margin strategies across product categories and regions.
 
-# 2. Sales Growth Trends:
+## 2. Sales Growth Trends:
 Sales in 2012 show higher values compared to 2013,2014,2015 especially during the last quarter. Total Sale Category indicates the Technology was Growth in Trends. This indicates a possible seasonal peak in sales during the year-end, which could be driven by holiday shopping.
 
-# 3. High Return Rate:
+## 3. High Return Rate:
 With 1079 product returns, there seems to be a notable return rate that could be impacting profits. Investigating the reasons behind these returns, such as product quality or shipping issues, would help in reducing costs associated with returns.
 
-# 4. Sales by Segments:
+## 4. Sales by Segments:
 The Consumer segment leads with 48% of total sales. However, the Corporate and Home Office segments combined account for over 50%, indicating potential for increased targeting or marketing towards these business customers for further growth.
 
-# 5. Regional Sales Distribution:
+## 5. Regional Sales Distribution:
 The Western Europe region contributes the highest sales at 33.37%, followed by Central America (28.75%). The Central and South regions show lower sales percentages, suggesting these regions could benefit from focused marketing or expansion strategies.
 
-# 6. Category Performance:
+## 6. Category Performance:
 Office Supplies is the top-performing category with $37,87,492.51M in sales, followed by Technology ($47,44,557.50M) and Furniture ($41,10,451.90M). This indicates that Office Supplies is driving the bulk of sales, but there’s growth potential in Technology and Furniture categories.
 
-# 7. Shipping Mode Impact:
+## 7. Shipping Mode Impact:
 Consumer is the most preferred shipping mode with $26518M in sales, Corporate is the most preferred shipping mode with $15429M in sales, Home Office is the most preferred shipping mode with $9343M in sales ,likely because it is more cost-effective. Same Day shipping has minimal sales, indicating that either customers are less interested in fast shipping or that it's not being marketed effectively.
 
-# 8. Sub-Category Focus:
+## 8. Sub-Category Focus:
 Phones is the highest-selling sub-category with $1.7M, followed by Copiers ($1.5M) and Chairs ($1.501M) and Bookcases ($1.4M). These sub-categories represent key drivers of revenue and should be prioritized for inventory and marketing efforts.
 
-# 9. Average Delivary Days :
+## 9. Average Delivary Days :
 The average Delivary Days  is 3  days, which seems reasonable, but there may be room for improvement to boost customer satisfaction, especially with rising competition offering faster shipping options.
 
 # Repository Structure
@@ -86,6 +86,8 @@ The average Delivary Days  is 3  days, which seems reasonable, but there may be 
 * Dashboard : "https://github.com/Rohan-Yele8788/GLOBAL-SUPER-STORE-ANALYSIS/blob/main/Global%20Super%20Store%20Project.pbix"
 * Images 1 : "https://github.com/Rohan-Yele8788/GLOBAL-SUPER-STORE-ANALYSIS/blob/main/Global%20Super%20Store%20Image%201.png"
 * Images 2 : "https://github.com/Rohan-Yele8788/GLOBAL-SUPER-STORE-ANALYSIS/blob/main/Global%20Super%20Store%20Image%202.png"
+
+  
 # Conclusion :
 
 The analysis reveals key areas for improvement:
