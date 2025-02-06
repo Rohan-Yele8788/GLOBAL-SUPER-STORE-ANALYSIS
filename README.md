@@ -83,7 +83,7 @@ The average Delivary Days  is 3  days, which seems reasonable, but there may be 
 
 # Repository Structure
 * Data :  "https://github.com/Rohan-Yele8788/GLOBAL-SUPER-STORE-ANALYSIS/blob/main/Global_superstore_2016.xlsx"</a>
-* Dashboard : Power BI File (.pbix) of the project.
+* Dashboard : https://github.com/Rohan-Yele8788/GLOBAL-SUPER-STORE-ANALYSIS/blob/main/Global%20Super%20Store%20Project.pbix
 * Images : Contains screenshorts of the dashboard for easy preview.
 
 # Conclusion :
