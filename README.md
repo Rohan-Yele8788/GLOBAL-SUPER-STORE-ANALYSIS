@@ -84,9 +84,10 @@ The average Delivary Days  is 3  days, which seems reasonable, but there may be 
 # Repository Structure
 * Data :  "https://github.com/Rohan-Yele8788/GLOBAL-SUPER-STORE-ANALYSIS/blob/main/Global_superstore_2016.xlsx"</a>
 * Dashboard : "https://github.com/Rohan-Yele8788/GLOBAL-SUPER-STORE-ANALYSIS/blob/main/Global%20Super%20Store%20Project.pbix"
-## Images 1 : ![Global Super Store Image 1](https://github.com/user-attachments/assets/6a0cb7b3-d87d-47f9-b1f7-8c3df7fd3de4)
+  
+* ## Images 1 : ![Global Super Store Image 1](https://github.com/user-attachments/assets/6a0cb7b3-d87d-47f9-b1f7-8c3df7fd3de4)
 
-## Images 2 : ![Global Super Store Image 2](https://github.com/user-attachments/assets/dbd32b8f-0e3a-49ff-89c1-5f72447776c3)
+* ## Images 2 : ![Global Super Store Image 2](https://github.com/user-attachments/assets/dbd32b8f-0e3a-49ff-89c1-5f72447776c3)
 
 
   
